@@ -1,0 +1,11 @@
+{
+  "name": "js-mobile-demo-api",
+  "version": "1.0.0",
+  "description": "JS Mobile Demo API",
+  "scripts": {
+  	"start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.12.0"
+  }
+}
